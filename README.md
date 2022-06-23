@@ -1,7 +1,6 @@
-# libft
+# libftprintf
 
-Second project in the coding school Hive where you were tasked to create a library of functions that are going to be used in later projects.
-Some of the functions were already part of standard libraries and you are supposed to recreate to gain deep understanding how they actually work.
+Libary containing some standard library functions, get next line and printf all re-created from scratch and with strict restrictions on style/function and available libraries.
 
 Due to strict rules and restrictions the following were mandatory in the creation of the functions:
 
@@ -73,5 +72,6 @@ Due to strict rules and restrictions the following were mandatory in the creatio
 - ft_lstadd   
 - ft_lstiter    
 - ft_lstmap  
-
+- get_next_line
+- printf
 
